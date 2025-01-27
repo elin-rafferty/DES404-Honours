@@ -1,2 +1,3 @@
-# DES404
- 
+I am creating a walk-through game about the effects MS has on day-to-day life from real experiences from someone with MS. This will include voice lines from the person with MS talking about the hardships and how it affected his ambitions and current life.
+I believe this will be interesting as it is from a unique POV with personal events that could reflect everyday situations for people with this disease and allowing people to experience what it would be like. I want to tackle this project as it is something personal to me as I know how much it significantly effects lives, and I know this is also passionate for the individual with MS. I am focusing on improving my accessibility, specifically in game mechanics and accessibility in UI. 
+As this project is based on a family member too, I know I will continue the motivation to keep working on this. 
